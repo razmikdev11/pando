@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Roboto';
+}
+
+.page {
+  padding-top: 130px;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: auto;
+  src: url("./fonts/Roboto.woff2");
+}
