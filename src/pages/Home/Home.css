@@ -212,6 +212,10 @@
     position: relative;
 }
 
+.section3-info__item:last-child {
+    margin-right: 0px;
+}
+
 .section3-img-container {
     display: flex;
     align-items: center;
